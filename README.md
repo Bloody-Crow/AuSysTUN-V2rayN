@@ -1,3 +1,6 @@
+### Quick Install
+curl -O https://raw.githubusercontent.com/Bloody-Crow/AuSysTu-v2rayN/main/v2rayn-autosystemtunnel-linux-macos.sh && chmod +x v2rayn-autosystemtunnel-linux-macos.sh && sudo ./v2rayn-autosystemtunnel-linux-macos.sh
+
 # v2rayN Automatic System Tunnel
 
 This project provides a background automation tool for v2rayN users on Linux (specifically Fedora) and macOS. It ensures that when TUN mode is activated in the v2rayN client, the entire operating system is correctly routed through the tunnel without DNS leaks or routing conflicts.
